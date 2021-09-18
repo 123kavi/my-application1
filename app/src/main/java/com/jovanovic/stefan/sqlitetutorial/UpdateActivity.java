@@ -26,6 +26,7 @@ public class UpdateActivity extends AppCompatActivity {
         setContentView(R.layout.activity_update);
 
 //
+        //
         pid_input = findViewById(R.id.pid_input2);
         preid_input = findViewById(R.id.preid_input2);
         nic_input = findViewById(R.id.nic_input2);
