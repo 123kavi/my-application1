@@ -49,6 +49,8 @@ public class UpdateActivity extends AppCompatActivity {
         if (ab != null) {
 
         }
+        {}
+        {}
 
         update_button.setOnClickListener(new View.OnClickListener() {
             @Override
